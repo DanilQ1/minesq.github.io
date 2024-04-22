@@ -1,0 +1,1 @@
+# minesq.github.io
