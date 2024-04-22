@@ -85,12 +85,13 @@ a {
 
 .text-title {
   font-size: 36px; 
-  font-family: 'Dudka', sans-serif; 
+  font-family: 'Dudka', sans-serif;
+  margin-top: 16px; 
 }
 
 .text-subtitle {
   font-size: 25px;
-  font-family: 'Dudka', sans-serif; 
+  font-family: 'Dudka', sans-serif;
 }
 
 
